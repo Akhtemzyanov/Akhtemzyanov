@@ -12,3 +12,4 @@ mail: rafael-css@yandex.ru</br>
   * User-level multi-part models
   * Time series
 * Causal impact research
+* ML / DL methods
