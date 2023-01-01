@@ -1,7 +1,7 @@
 ### Akhtemzyanov Rafael
 Data scientist</br>
 
-Yandex / Lomonosov Moscow State University, Faculty of Economics </br> </br>
+Yandex / Lomonosov Moscow State University, Faculty of Economics </br>
 
 telegram: @rafaelakhtemzyanov</br>
 mail: rafael-css@yandex.ru</br>
