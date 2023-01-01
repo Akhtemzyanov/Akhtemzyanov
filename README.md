@@ -1,16 +1,14 @@
-### Hi there 👋
+### Akhtemzyanov Rafael
+Data scientist</br>
 
-<!--
-**Akhtemzyanov/Akhtemzyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yandex / Lomonosov Moscow State University, Faculty of Economics </br> </br>
 
-Here are some ideas to get you started:
+telegram: @rafaelakhtemzyanov</br>
+mail: rafael-css@yandex.ru</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Expertise
+* Forecasting:
+  * Cohort-based models
+  * User-level multi-part models
+  * Time series
+* Causal impact research
