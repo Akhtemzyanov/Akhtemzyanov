@@ -1,5 +1,5 @@
 ### Akhtemzyanov Rafael
-Data scientist</br>
+Data analyst</br>
 
 Yandex / Lomonosov Moscow State University, Faculty of Economics </br>
 
